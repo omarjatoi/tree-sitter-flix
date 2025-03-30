@@ -1,6 +1,6 @@
 [package]
 name = "tree-sitter-flix"
-description = "Tree-sitter parser for the Flix programming language"
+description = "Flix grammar for tree-sitter"
 version = "0.1.0"
 authors = ["Omar Jatoi <git@omarjatoi.com>"]
 license = "Apache-2.0"

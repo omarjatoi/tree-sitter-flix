@@ -1,5 +1,5 @@
 /**
- * @file Tree-sitter parser for the Flix programming language
+ * @file Flix grammar for tree-sitter
  * @author Omar Jatoi <git@omarjatoi.com>
  * @license Apache-2.0
  */
@@ -12,6 +12,6 @@ module.exports = grammar({
 
   rules: {
     // TODO: add the actual grammar rules
-    source_file: $ => "hello"
-  }
+    source_file: ($) => "hello",
+  },
 });

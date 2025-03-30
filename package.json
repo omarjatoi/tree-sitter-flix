@@ -1,13 +1,12 @@
 {
   "name": "tree-sitter-flix",
   "version": "0.1.0",
-  "description": "Tree-sitter parser for the Flix programming language",
+  "description": "Flix grammar for tree-sitter",
   "repository": "https://github.com/omarjatoi/tree-sitter-flix",
   "license": "Apache-2.0",
   "author": {
     "name": "Omar Jatoi",
-    "email": "git@omarjatoi.com",
-    "url": "https://omarjatoi.com/"
+    "email": "git@omarjatoi.com"
   },
   "main": "bindings/node",
   "types": "bindings/node",

@@ -6,9 +6,7 @@
       "camelcase": "Flix",
       "title": "Flix",
       "scope": "source.flix",
-      "file-types": [
-        "flix"
-      ],
+      "file-types": ["flix"],
       "injection-regex": "^flix$",
       "class-name": "TreeSitterFlix"
     }
@@ -16,7 +14,7 @@
   "metadata": {
     "version": "0.1.0",
     "license": "Apache-2.0",
-    "description": "Tree-sitter parser for the Flix programming language",
+    "description": "Flix grammar for tree-sitter",
     "authors": [
       {
         "name": "Omar Jatoi",
